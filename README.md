@@ -1,3 +1,5 @@
+<h1 align ="center">Channu Dambal</h1>
+
 <h3 align="center">A passionate AI/ML Developer from India</h3>
 
 - 🌱 I’m currently Improving **my AI/ML/DL Skills**
