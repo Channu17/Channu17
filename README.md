@@ -6,7 +6,7 @@
 <h3 align="center">🚀 A Passionate AI/ML Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Exploring+AI%2FML+%26+MLOps!;Building+intelligent+systems!;Learning+one+bug+at+a+time!;Code%2C+Eat%2C+Sleep%2C+Repeat!">
+         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Exploring+AI%2FML+%26+MLOps!;Building+intelligent+systems!;Learning+one+bug+at+a+time!;Code%2C+Eat%2C+Sleep%2C+Repeat!">
 </p>
 
 ---
