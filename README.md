@@ -72,7 +72,7 @@
   <img src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/img/langchain_logo.png" alt="LangChain" width="40" height="40"/> 
 </p>
 
----
+------
 
 ## 💬 Connect with Me
 
@@ -85,6 +85,6 @@
   </a>
 </p>
 
----
+------
 
 **Feel free to reach out! Always open to collaborations, discussions, and learning from others!** 🚀
