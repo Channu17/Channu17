@@ -6,22 +6,22 @@
 <h3 align="center">🚀 A Passionate AI/ML Developer 🚀</h3>
 
 <p align="center">
-         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Exploring+AI%2FML+%26+MLOps!;Building+intelligent+systems!;Learning+one+bug+at+a+time!;Code%2C+Eat%2C+Sleep%2C+Repeat!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Exploring+AI%2FML+%26+MLOps!;Building+intelligent+systems!;Learning+one+bug+at+a+time!;Code%2C+Eat%2C+Sleep%2C+Repeat!" />
 </p>
 
 ---
 
 ## 🛠️ About Me
 
-- 🌱 I’m currently improving my **AI/ML/DL Skills**  
-- 💬 Exploring **MLOps**, **Generative AI**  
+- 🌱 Currently improving my **AI/ML/DL Skills**  
+- 💬 Exploring **MLOps** and **Generative AI**  
 - 🔭 Future Interest: **Cloud Computing**  
 - 🤝 Open to collaborations on **AI/ML projects**  
-- 💌 Reach me at **channudambal2004@gmail.com**
+- 💌 Reach me at: **channudambal2004@gmail.com**
 
 ---
 
-## 🚀 Connect With Me
+## 🌐 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/channappa-md/" target="_blank">
@@ -40,7 +40,9 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=channu17&theme=radical" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=channu17&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
@@ -48,12 +50,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=channu17&show_icons=true&locale=en&theme=radical" alt="channu17" />
+  <img src="https://github-readme-stats.vercel.app/api?username=channu17&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+## 🧰 Languages & Tools
 
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -72,9 +74,9 @@
   <img src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/img/langchain_logo.png" alt="LangChain" width="40" height="40"/> 
 </p>
 
-------
+---
 
-## 💬 Connect with Me
+## 💬 More Ways to Reach Me
 
 <p align="center">
   <a href="https://kaggle.com/channu_" target="_blank">
@@ -85,6 +87,6 @@
   </a>
 </p>
 
-------
+---
 
-**Feel free to reach out! Always open to collaborations, discussions, and learning from others!** 🚀
+<p align="center"><strong>Feel free to reach out! Always open to collaborations, discussions, and learning from others! 🚀</strong></p>
