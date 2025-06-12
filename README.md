@@ -115,11 +115,13 @@
 
 <div align="center">
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 🤖 **AI Project 1** | Brief description of your top project | `Python` `TensorFlow` `FastAPI` | [📁 Repo](link) [🚀 Demo](link) |
-| 📊 **Data Science Project** | Another impressive project | `Python` `Pandas` `Scikit-learn` | [📁 Repo](link) [📊 Notebook](link) |
-| 🔧 **Backend API** | RESTful API with Node.js and MongoDB | `Node.js` `Express.js` `MongoDB` | [📁 Repo](link) [📖 Docs](link) |
+| Project                   | Description                                                                                         | Tech Stack                                                        | Links                                                                                                                         |
+| ------------------------- | --------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 🤖 **AI Study Assistant** | A study assistant for engineering students using LangChain & RAG to answer questions from textbooks | `Python` `LangChain` `Llama 3` `FAISS` `Streamlit`                | [📁 Repo](https://github.com/Channu17/AI-Study-Assistent) [🚀 Demo](https://ai-study-assistent.streamlit.app/)                |
+| 👕 **Cloth Recommender**  | Recommends similar clothes using image input & MobileNet, deployed on Streamlit                     | `TensorFlow` `OpenCV` `FastAPI` `SQLite` `Streamlit`              | [📁 Repo](https://github.com/Channu17/Textile-Reccomendation-using-CV) [🚀 Demo](https://cloth-recommendation.streamlit.app/) |
+| 🌾 **Farm Mate**          | Recommends crops, fertilizers & classifies soil using ML/DL models                                  | `Random Forest` `Logistic Regression` `CNN` `FastAPI` `Streamlit` | [📁 Repo](https://github.com/Channu17/Crop-Prediction) [🚀 Demo](https://crop-prediction-cmgu.onrender.com/)                  |
+| 📄 **Job-Score-AI**       | Compares resumes with job descriptions and ranks them using NLP                                     | `SpaCy` `TF-IDF` `Cosine Similarity` `Flask`                      | [📁 Repo](https://github.com/Channu17/Resume-and-Job-description-matcher) [🚀 Demo](https://resu-match-ai-cmd.onrender.com/)  |
+
 
 </div>
 
