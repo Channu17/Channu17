@@ -102,7 +102,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=channu17&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=channu17&theme=blue-green&hide_border=true)](https://git.io/streak-stats" alt="GitHub Streak" />
 </div>
 
 <div align="center">
